@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/crama-ferdi/static/css/main.215af82c.chunk.css",
+    "main.js": "/crama-ferdi/static/js/main.45c9ddc8.chunk.js",
+    "main.js.map": "/crama-ferdi/static/js/main.45c9ddc8.chunk.js.map",
+    "runtime-main.js": "/crama-ferdi/static/js/runtime-main.58cdab93.js",
+    "runtime-main.js.map": "/crama-ferdi/static/js/runtime-main.58cdab93.js.map",
+    "static/js/2.1f52dd7e.chunk.js": "/crama-ferdi/static/js/2.1f52dd7e.chunk.js",
+    "static/js/2.1f52dd7e.chunk.js.map": "/crama-ferdi/static/js/2.1f52dd7e.chunk.js.map",
+    "index.html": "/crama-ferdi/index.html",
+    "precache-manifest.190edbd7e53818c774bc8963f2009927.js": "/crama-ferdi/precache-manifest.190edbd7e53818c774bc8963f2009927.js",
+    "service-worker.js": "/crama-ferdi/service-worker.js",
+    "static/css/main.215af82c.chunk.css.map": "/crama-ferdi/static/css/main.215af82c.chunk.css.map",
+    "static/js/2.1f52dd7e.chunk.js.LICENSE.txt": "/crama-ferdi/static/js/2.1f52dd7e.chunk.js.LICENSE.txt",
+    "static/media/products.css": "/crama-ferdi/static/media/6.7a1fb9b0.webp",
+    "static/media/contact.css": "/crama-ferdi/static/media/profile1.560470a6.jpg",
+    "static/media/call2.svg": "/crama-ferdi/static/media/call2.f30991d3.svg",
+    "static/media/gmail.svg": "/crama-ferdi/static/media/gmail.b225d3c0.svg",
+    "static/media/up-ar.svg": "/crama-ferdi/static/media/up-ar.b90cd05b.svg",
+    "static/media/home.css": "/crama-ferdi/static/media/wine6.df19d93e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58cdab93.js",
+    "static/js/2.1f52dd7e.chunk.js",
+    "static/css/main.215af82c.chunk.css",
+    "static/js/main.45c9ddc8.chunk.js"
+  ]
+}
